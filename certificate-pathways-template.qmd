@@ -1,6 +1,8 @@
 ---
 params:
   participant_name: "Ileana Fenwick"
+  start_date: "January 25"
+  end_date: "February 29, 2024"
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
